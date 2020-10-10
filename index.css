@@ -1,0 +1,12 @@
+.li {
+    border : 5px solid #737373;
+    background-color: #737373;
+    border-left: 5px solid orange;
+    margin-bottom: 20px;
+    height: 70px;
+    color: white;
+}
+
+.display {
+    display: inline; 
+}
